@@ -1,2 +1,1 @@
-# exercicios_42
-Exercícios da École 42.
+Exercícios da École 42 que realizei. Não sou nem fui estudante da escola, porém, ao ler sobre a proposta deles, me interessei e resolvi desenvolver alguns projetos da "grade curricular" que eles propõem. Aqui ficarão registrados todos exercícios que completei.
